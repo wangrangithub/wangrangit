@@ -2,7 +2,7 @@ package com.game.git;
 
 public class Git {
 	public void git(){
-		//TO-DO: git ÓÃ·¨²âÊÔ
+		//TO-DO: git ç¬¬ä¸€æ¬¡ä½¿ç”¨
 		System.err.println("impl");
 	}
 }
